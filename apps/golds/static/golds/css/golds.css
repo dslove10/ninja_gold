@@ -1,0 +1,20 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#farm{
+	display: inline-block;
+}
+
+#cave{
+	display: inline-block;
+}
+
+#house{
+	display: inline-block;
+}
+
+#casino{
+	display: inline-block;
+}
